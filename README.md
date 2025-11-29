@@ -9,7 +9,7 @@ Refer to [Final Build](Final%20Build)
 - Tolly Zhang  
 
 ## Project Overview  
-*Weightless Odyssey* is a real-time simulation game where players assess and resolve critical system failures in a spacecraft. Players must also predict the motion and risk of interstellar bodies and space debris during interstellar travel. This game combines critical thinking and risk assessment with survival mechanics.
+*Weightless Odyssey* is a real-time simulation game where players assess and resolve critical system failures in a spacecraft. Players must also predict the motion and risk of interstellar bodies and space debris during interstellar travel. This game combines critical thinking and risk assessment with survival mechanics. It was succesfully submitted for the 2024 NASA Space Apps Challenge
 
 ### Focus & Main Ideas  
 - **Health Effects in Microgravity**:  
